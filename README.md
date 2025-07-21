@@ -17,13 +17,30 @@ I enjoy combining manual and automated testing practices with tools like Playwri
 
 ## 🛠️ Tech Stack & Tools
 
+
 <p>
+  <!-- Languages & Scripting -->
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="SQL" width="40" height="40"/>
+  
+  <!-- Tools & Testing -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="VS Code" width="40" height="40"/>
+  
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+
+  <!-- Environments / Browsers -->
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/chrome/original.svg" alt="Chrome" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/firefox/original.svg" alt="Firefox" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/safari/original.svg" alt="Safari" width="40" height="40"/>
 </p>
 
 - **Testing & Automation**: Manual QA, Playwright (TypeScript), Postman, Newman, Jira, Xray  
